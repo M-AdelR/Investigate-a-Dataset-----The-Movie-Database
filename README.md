@@ -35,7 +35,7 @@ After I've trimmed and cleaned your data, was ready to move on to exploration. C
 
 ## Getting Started
 * [Project](https://github.com/M-AdelR/Investigate-a-Dataset-----The-Movie-Database.git).
-* Raw Data is being kept [1](https://github.com/M-AdelR/Investigate-a-Dataset-----The-Movie-Database/blob/a3ba7e6bb6cd05e30c8aadc9706e8a87423867aa/tmdbmovies.csv)
-* Data processing/transformation scripts are being kept [here](https://github.com/M-AdelR/Investigate-a-Dataset-----The-Movie-Database/blob/bbef7c2bfb35c5ffa2ad8e0be053efe9f9221a50/Investigate_a_Dataset-TMDB%20movies.html).
+* Raw Data is being kept [file](https://github.com/M-AdelR/Investigate-a-Dataset-----The-Movie-Database/blob/a3ba7e6bb6cd05e30c8aadc9706e8a87423867aa/tmdbmovies.csv)
+* Data processing script is being kept [script](https://github.com/M-AdelR/Investigate-a-Dataset-----The-Movie-Database/blob/bbef7c2bfb35c5ffa2ad8e0be053efe9f9221a50/Investigate_a_Dataset-TMDB%20movies.html).
 ## Featured Notebooks
 * [Notebook](https://github.com/M-AdelR/Investigate-a-Dataset-----The-Movie-Database/blob/a3ba7e6bb6cd05e30c8aadc9706e8a87423867aa/Investigate_a_Dataset-TMDB%20movies.ipynb)
